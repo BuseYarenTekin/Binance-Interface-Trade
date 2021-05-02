@@ -1,3 +1,3 @@
 # First Version
 
-![Image](First GUI.png "GUI")
+![Image](First_GUI.png "GUI")
